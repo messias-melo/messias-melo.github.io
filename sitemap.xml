@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>192.168.1.105/categories/</loc>
+    <loc>https://messias-melo.github.io/categories/</loc>
   </url><url>
-    <loc>192.168.1.105/gallery/</loc>
+    <loc>https://messias-melo.github.io/gallery/</loc>
   </url><url>
-    <loc>192.168.1.105/</loc>
+    <loc>https://messias-melo.github.io/</loc>
   </url><url>
-    <loc>192.168.1.105/tags/</loc>
+    <loc>https://messias-melo.github.io/tags/</loc>
   </url>
 </urlset>
